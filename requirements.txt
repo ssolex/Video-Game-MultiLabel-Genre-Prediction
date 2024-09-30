@@ -1,12 +1,12 @@
-python==3.10.6
-cloudpickle==2.2.1
-distlib==0.3.8
-docutils==0.20.1
-pickleshare==0.7.5
-requests==2.31.0
-scikit-learn==1.2.0
-snowballstemmer==2.2.0
-streamlit==1.13.0
-streamlit-on-Hover-tabs==1.0.1
+python
+cloudpickle
+distlib
+docutils
+pickleshare
+requests
+scikit-learn
+snowballstemmer
+streamlit
+streamlit-on-Hover-tabs
 
 
