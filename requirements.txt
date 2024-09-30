@@ -97,7 +97,6 @@ Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
 libclang==14.0.6
 linkify-it-py==2.0.2
-llvmlite==0.39.1
 Markdown==3.4.1
 markdown-it-py==2.2.0
 MarkupSafe==2.1.1
