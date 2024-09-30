@@ -1,6 +1,5 @@
 cloudpickle==2.2.1
 nltk==3.7
-pickleshare==0.7.5
 python==3.10.6
 scikit-learn==1.2.0
 scipy==1.10.0
